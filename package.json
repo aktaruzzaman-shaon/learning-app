@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^5.1.6",
+    "graphql": "^16.9.0",
+    "graphql-request": "^7.1.0",
+    "lucide-react": "^0.397.0",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
